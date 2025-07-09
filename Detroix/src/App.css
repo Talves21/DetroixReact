@@ -1,0 +1,74 @@
+.topBar {
+  background-color: #0b0b31;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+body {
+  background-color: #f2f3f5;
+}
+
+.btn{
+    background-color: #0b0b31;
+    color: white;
+    padding-left: 10px;
+    margin-right: 10px;
+}
+
+.btn:hover {
+  background-color: gray;
+}
+
+.navButtons .btn{
+    margin-top: 35px;
+}
+
+.mainImg {
+  width: 100%;
+}
+
+.bullets {
+  background-color: gray;
+  border: 2px solid gray;
+  width: 35px;
+  height: 35px;
+  border-radius: 25px;
+  margin: 10px;
+}
+
+.bullets:hover {
+  background-color: orange;
+  border: 2px solid orange;
+}
+
+.bottomMain {
+  background-color: #14202c;
+}
+
+.bottomButton{
+  background-color: #213349;
+}
+
+.bottomButton:hover {
+  background-color: gray;
+}
+
+.services ul{
+  list-style:"⚙️";
+}
+
+.opportunities ul{
+  list-style: "🗨️";
+}
+
+footer{
+  background-color: #0e1e31;
+}
